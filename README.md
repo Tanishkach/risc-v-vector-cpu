@@ -16,3 +16,5 @@ parallelism at runtime without recompiling hardware.
 
 ## Simulation
 Tested in Vivado 2025.1 behavioral simulation.
+
+![Output of the simulation](output.png)
